@@ -113,7 +113,7 @@ Your feedback is invaluable in shaping the future of this project\!
 
 If you find the NVIDIA Workload Monitor useful and would like to support its continued development and future enhancements, any donation would be greatly appreciated. Your generosity helps keep this project alive and evolving.
 
-You can send donations to the following Bitcoin address:
+You can send donations to the following MONERO address… warning this is not a Bitcoin Wallet… I will have one latter ;-)
 
 4AtJCocHeeQ4kbJZLwUhy6Gm5cM45T19eVsAHfom3eY2YyNx1qcWPnQNkAnpWGdnxuLw1avuqMthj5sGRGz7vVbPEFRqaLT
 
